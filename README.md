@@ -2,6 +2,7 @@
 A clone for pinterest homepage made with SASS and Javascript! 💜
 
 ## 📱 Final Project
+> Netlify: https://pinterest-clone-pedro.netlify.app/
 ![Pinterest gif](https://github.com/Pedro-Murilo/ui-clone-pinterest/blob/master/pinterest-gif.gif)
 
 ## 🗒 About
